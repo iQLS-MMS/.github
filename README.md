@@ -1,2 +1,0 @@
-# MMS
-Group README test
